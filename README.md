@@ -1,4 +1,4 @@
-# 감각적인 웹 서비스를 제공하는 Front-end Developer🔮
+# Front-end Developer🔮
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffuraha707&count_bg=%2351C6C1&title_bg=%23FF5353&icon=myspace.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
